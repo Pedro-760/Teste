@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fale conosco (Final)</title>
+</head>
+<body>
+    <main>
+        <header>
+        </header>
+        <fieldset>
+            <legend>
+                <h1>Fale com a gente</h1>
+            </legend>
+            <div>
+                <label for="name">Nome</label>
+                <input type="text" name="Nome" required="TRUE">
+            </div>
+            <label for="name">Tel/cel</label>
+            <input type="text" name="Tel/Cel" placeholder="(99).xxx.xxx">
+            <div>
+                <label for="name">Email</label>
+                <input type="text" name="Email" required="TRUE">
+            </div>
+            <div>
+                <label for="cep">Cep</label>
+                <input type="text" name="cep">
+            </div>
+            <div>
+                <label for="Sua mensagem">Sua mensagem</label><br>
+                <textarea name="Sua mensagem" cols="30" rows="4"></textarea>
+            </div>
+        </fieldset>
+</body>
+
+</html>

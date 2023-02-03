@@ -8,18 +8,18 @@ footer {
     width: 100%;
 }
 
-nav{ 
+nav {
 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: large;
-    background-color:#004a8d;
-    
+    background-color: #004a8d;
+
 }
+
 nav a {
     color: white;
 }
 
-#foto
-{ 
-    height: 600px;
+#foto {
+    height: 650px;
 }

@@ -18,3 +18,20 @@ nav {
 nav a {
     color: white;
 }
+
+h2{ font-family: Verdana, Geneva, Tahoma, sans-serif; color: #004a8d; text-align: center;
+
+
+}
+
+p{ font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: large;
+
+}
+
+ul{ font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: large;
+
+
+}
+.mundo{ 
+    margin: 0 60px 0 60px;
+}

@@ -43,18 +43,3 @@ p {
     font-size: large;
 
 }
-
-
-#carouselExampleInterval img {
-    margin: auto;
-}
-
-#lista {
-    text-align: justify;
-    margin: 0 15% 0 10%;
-}
-
-#lista li {
-    list-style-position: inside;
-    list-style-type: none;
-}

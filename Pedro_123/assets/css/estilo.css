@@ -1,0 +1,31 @@
+
+ body{ 
+
+background-image: url("assets/img/fundo.jpg");
+ }
+
+#foto {
+    height: 650px;
+}
+
+.trabalho{ text-align: center;
+
+
+}
+
+#header {
+    background-color: white!important;
+}
+
+#foto {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+    object-position: bottom;
+}
+
+.nav-link{ color:#005594;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+
+}

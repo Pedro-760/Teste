@@ -1,0 +1,22 @@
+.blogShort {
+    border-bottom:1px solid white;
+}
+
+h2 {
+    color:#34ca78;
+}
+
+.margin10 {
+    margin-bottom:10px; 
+    margin-right:10px;
+}
+
+.carousel {
+    width: 600px;
+ }
+ 
+ h5{ text-align: justify;
+    font-size: larger;
+    
+    
+}

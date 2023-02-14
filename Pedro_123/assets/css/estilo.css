@@ -1,7 +1,7 @@
 
  body{ 
 
-background-image: url("assets/img/fundo.jpg");
+background-image: url("../img/fundo.jpg");
  }
 
 #foto {
@@ -30,4 +30,13 @@ background-image: url("assets/img/fundo.jpg");
     font-size: larger;
 
 }
+
+
+footer{ background-color: #161619;
+padding: 20px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: large;}
+
+.dev{ color: chartreuse;}
+
 

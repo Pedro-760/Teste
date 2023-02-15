@@ -33,10 +33,19 @@ background-image: url("../img/fundo.jpg");
 
 
 footer{ background-color: #161619;
-padding: 20px;
-font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-font-size: large;}
+    color: lightgray;
+padding: 25px;
+font-family: Verdana, Geneva, Tahoma, sans-serif
+; font-size: medium;
+text-align: center;
+bottom: 0;
+position: fixed;
+width: 100%;
+}
 
-.dev{ color: chartreuse;}
+
+
+
+
 
 
